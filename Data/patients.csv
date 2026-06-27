@@ -1,0 +1,201 @@
+patient_id,age,gender,blood_group,nationality,weight_kg,height_m,bmi,systolic_bp,diastolic_bp,primary_condition,department
+PT0001,21,Male,A-,Ghanaian,97.1,1.61,37.5,112,97,Chronic Kidney Disease,Cardiology
+PT0002,29,Male,B-,American,70.9,1.73,23.7,106,74,Chronic Kidney Disease,General Medicine
+PT0003,18,Female,AB-,Ethiopian,84.1,1.57,34.1,130,69,Diabetes Type 2,Pulmonology
+PT0004,29,Male,AB+,Nigerian,79.0,1.66,28.7,127,89,None,Cardiology
+PT0005,28,Female,AB-,South African,74.8,1.87,21.4,144,64,Hypertension,Endocrinology
+PT0006,28,Female,AB+,Indian,88.5,1.89,24.8,129,100,Asthma,Endocrinology
+PT0007,63,Female,A-,Kenyan,59.4,1.62,22.6,171,94,Diabetes Type 2,Endocrinology
+PT0008,66,Female,B-,British,62.1,1.92,16.8,157,63,Diabetes Type 2,Cardiology
+PT0009,69,Female,AB-,South African,62.0,1.59,24.5,173,91,Chronic Kidney Disease,Nephrology
+PT0010,51,Male,AB+,American,67.0,1.84,19.8,144,97,Chronic Kidney Disease,Pulmonology
+PT0011,35,Male,A-,Kenyan,85.5,1.54,36.1,110,100,Diabetes Type 2,Nephrology
+PT0012,67,Male,AB+,Nigerian,79.1,1.95,20.8,146,67,None,Pulmonology
+PT0013,32,Female,AB+,Kenyan,63.2,1.57,25.6,106,92,Hypertension,Pulmonology
+PT0014,37,Male,A+,British,78.7,1.57,31.9,156,91,Hypertension,Cardiology
+PT0015,57,Female,A-,Ghanaian,60.8,1.61,23.5,147,91,Hypertension,General Medicine
+PT0016,34,Male,AB+,American,93.0,1.93,25.0,116,73,None,Endocrinology
+PT0017,69,Female,O-,Ghanaian,94.8,1.79,29.6,141,75,Diabetes Type 2,Cardiology
+PT0018,20,Female,A+,Ghanaian,76.5,1.6,29.9,118,100,Hypertension,Endocrinology
+PT0019,22,Male,AB+,Indian,103.0,1.53,44.0,119,73,None,Endocrinology
+PT0020,49,Female,A-,Ghanaian,85.3,1.86,24.7,121,87,Asthma,Nephrology
+PT0021,77,Female,A-,Nigerian,88.9,1.52,38.5,156,85,Asthma,Cardiology
+PT0022,42,Male,B+,Ethiopian,69.5,1.7,24.0,135,89,Diabetes Type 2,Cardiology
+PT0023,30,Female,A+,Ghanaian,52.3,1.95,13.8,159,75,Diabetes Type 2,Nephrology
+PT0024,79,Female,B+,American,59.6,1.68,21.1,118,60,Chronic Kidney Disease,Pulmonology
+PT0025,54,Female,O-,Kenyan,69.0,1.93,18.5,160,72,Asthma,Endocrinology
+PT0026,25,Male,O-,Kenyan,97.4,1.53,41.6,142,63,None,Cardiology
+PT0027,26,Male,O+,Ghanaian,89.8,1.8,27.7,120,96,Diabetes Type 2,General Medicine
+PT0028,28,Male,AB-,Ethiopian,81.0,1.76,26.1,138,73,Asthma,Endocrinology
+PT0029,68,Female,AB-,Ghanaian,55.9,1.79,17.4,142,60,Chronic Kidney Disease,General Medicine
+PT0030,27,Male,AB-,Ghanaian,86.9,1.73,29.0,113,75,Asthma,Pulmonology
+PT0031,74,Male,A+,Ethiopian,101.7,1.82,30.7,153,66,Diabetes Type 2,Pulmonology
+PT0032,31,Male,B-,British,97.1,1.57,39.4,124,73,Asthma,General Medicine
+PT0033,50,Female,O+,Ethiopian,90.7,1.88,25.7,115,62,Hypertension,Pulmonology
+PT0034,51,Male,O+,Nigerian,68.1,1.7,23.6,155,67,Hypertension,Endocrinology
+PT0035,65,Male,A+,Ethiopian,89.1,1.57,36.1,121,83,Hypertension,Pulmonology
+PT0036,49,Male,O+,Kenyan,93.3,1.66,33.9,144,75,Diabetes Type 2,Endocrinology
+PT0037,21,Female,O+,South African,58.1,1.92,15.8,154,77,Diabetes Type 2,Cardiology
+PT0038,22,Female,O-,British,88.6,1.6,34.6,156,79,Diabetes Type 2,Endocrinology
+PT0039,42,Male,AB+,British,79.9,1.63,30.1,112,92,Chronic Kidney Disease,General Medicine
+PT0040,21,Female,AB+,Nigerian,55.2,1.94,14.7,115,66,None,Nephrology
+PT0041,58,Female,O+,South African,69.6,1.94,18.5,118,76,Hypertension,Nephrology
+PT0042,84,Male,B-,British,106.3,1.74,35.1,162,87,Hypertension,Pulmonology
+PT0043,33,Female,O+,British,82.4,1.64,30.6,125,85,Asthma,General Medicine
+PT0044,42,Male,B+,Ethiopian,81.0,1.92,22.0,151,85,None,Cardiology
+PT0045,54,Female,AB-,Indian,59.5,1.85,17.4,148,88,Chronic Kidney Disease,Endocrinology
+PT0046,39,Female,AB-,Ghanaian,79.6,1.63,30.0,149,75,Asthma,Endocrinology
+PT0047,36,Male,A-,Indian,61.2,1.61,23.6,137,86,None,Endocrinology
+PT0048,81,Female,A+,Ghanaian,68.0,1.57,27.6,160,87,Diabetes Type 2,Endocrinology
+PT0049,24,Female,O-,Kenyan,75.1,1.91,20.6,111,89,None,General Medicine
+PT0050,74,Female,O+,Indian,77.6,1.82,23.4,146,70,Chronic Kidney Disease,Nephrology
+PT0051,49,Female,O-,South African,87.8,1.62,33.5,158,77,Chronic Kidney Disease,Cardiology
+PT0052,48,Female,A-,Kenyan,62.2,1.64,23.1,143,69,Diabetes Type 2,Nephrology
+PT0053,45,Male,O-,American,63.2,1.68,22.4,143,63,Diabetes Type 2,Nephrology
+PT0054,20,Female,O-,Nigerian,88.6,1.84,26.2,128,82,Asthma,Nephrology
+PT0055,46,Female,A+,American,72.0,1.62,27.4,140,81,Chronic Kidney Disease,Endocrinology
+PT0056,34,Female,O+,Nigerian,94.1,1.74,31.1,164,65,Chronic Kidney Disease,Endocrinology
+PT0057,41,Female,O-,British,52.3,1.67,18.8,121,81,Chronic Kidney Disease,Pulmonology
+PT0058,50,Female,A+,British,87.6,1.71,30.0,157,74,Hypertension,Cardiology
+PT0059,49,Male,B-,Kenyan,70.0,1.51,30.7,118,90,Hypertension,General Medicine
+PT0060,77,Male,A-,Kenyan,95.0,1.85,27.8,125,79,Hypertension,General Medicine
+PT0061,57,Male,O+,South African,88.8,1.91,24.3,135,64,None,Endocrinology
+PT0062,56,Male,A+,British,102.5,1.77,32.7,118,94,Chronic Kidney Disease,Pulmonology
+PT0063,82,Male,O-,Ghanaian,92.4,1.51,40.5,142,87,Asthma,Nephrology
+PT0064,73,Male,AB+,Indian,68.8,1.73,23.0,155,89,Chronic Kidney Disease,General Medicine
+PT0065,59,Female,AB+,Indian,88.3,1.87,25.3,116,75,Chronic Kidney Disease,General Medicine
+PT0066,61,Female,O-,South African,51.3,1.88,14.5,123,82,Asthma,Pulmonology
+PT0067,53,Female,A-,South African,75.0,1.73,25.1,122,86,Chronic Kidney Disease,General Medicine
+PT0068,78,Male,A+,Ghanaian,92.3,1.72,31.2,165,78,Diabetes Type 2,Nephrology
+PT0069,57,Male,AB-,American,93.2,1.67,33.4,146,95,Asthma,Pulmonology
+PT0070,52,Female,B-,British,63.8,1.6,24.9,156,67,None,Endocrinology
+PT0071,45,Male,AB+,Ghanaian,96.9,1.62,36.9,146,72,Asthma,Endocrinology
+PT0072,40,Female,AB+,Nigerian,63.6,1.82,19.2,116,63,None,Pulmonology
+PT0073,80,Male,O-,Indian,65.1,1.51,28.6,134,88,Asthma,Endocrinology
+PT0074,50,Male,A-,American,107.1,1.71,36.6,162,91,Hypertension,General Medicine
+PT0075,37,Male,A-,South African,67.5,1.75,22.0,126,67,None,Nephrology
+PT0076,84,Male,O+,Ethiopian,79.0,1.91,21.7,135,96,None,Cardiology
+PT0077,44,Male,B+,South African,91.3,1.62,34.8,113,71,None,Cardiology
+PT0078,18,Male,AB+,Nigerian,80.4,1.81,24.5,133,74,Asthma,Pulmonology
+PT0079,27,Female,B-,American,80.9,1.92,21.9,155,67,None,Endocrinology
+PT0080,52,Male,AB+,Ethiopian,101.3,1.53,43.3,120,88,Hypertension,Nephrology
+PT0081,69,Female,O-,Ghanaian,92.4,1.73,30.9,144,98,Hypertension,Nephrology
+PT0082,50,Female,A+,Ethiopian,51.2,1.6,20.0,153,96,Hypertension,Endocrinology
+PT0083,84,Female,O+,Indian,79.3,1.91,21.7,127,65,Chronic Kidney Disease,Pulmonology
+PT0084,60,Female,AB-,American,64.4,1.55,26.8,122,91,Asthma,Nephrology
+PT0085,76,Male,O+,Nigerian,64.4,1.61,24.8,122,94,Chronic Kidney Disease,Nephrology
+PT0086,42,Male,O-,Nigerian,85.9,1.78,27.1,139,73,Asthma,General Medicine
+PT0087,54,Male,A+,South African,81.9,1.81,25.0,117,70,Asthma,General Medicine
+PT0088,70,Male,A-,Indian,64.7,1.95,17.0,172,67,Diabetes Type 2,Nephrology
+PT0089,83,Female,O-,South African,81.7,1.69,28.6,146,89,None,Endocrinology
+PT0090,42,Female,B+,Ghanaian,91.5,1.73,30.6,164,77,Chronic Kidney Disease,Pulmonology
+PT0091,18,Female,O-,Kenyan,62.7,1.63,23.6,140,88,None,Nephrology
+PT0092,60,Female,AB-,South African,74.8,1.74,24.7,141,75,None,Nephrology
+PT0093,70,Male,O+,American,62.2,1.84,18.4,159,69,Chronic Kidney Disease,Cardiology
+PT0094,82,Male,O-,Ghanaian,108.3,1.65,39.8,122,93,Chronic Kidney Disease,Cardiology
+PT0095,70,Male,O-,Ethiopian,103.5,1.94,27.5,118,81,None,Nephrology
+PT0096,60,Male,AB-,Indian,102.6,1.89,28.7,136,94,Hypertension,General Medicine
+PT0097,48,Male,A-,American,91.6,1.91,25.1,123,66,Hypertension,Nephrology
+PT0098,56,Male,A+,Ethiopian,105.2,1.52,45.5,161,82,Asthma,Nephrology
+PT0099,49,Male,B+,Kenyan,86.6,1.75,28.3,159,71,Hypertension,General Medicine
+PT0100,48,Female,O-,Ethiopian,72.4,1.76,23.4,123,89,Asthma,Cardiology
+PT0101,54,Female,AB-,Ethiopian,80.5,1.57,32.7,138,100,Chronic Kidney Disease,Pulmonology
+PT0102,56,Female,A-,South African,59.0,1.67,21.2,141,84,None,Pulmonology
+PT0103,55,Female,AB+,Nigerian,51.0,1.87,14.6,136,96,Hypertension,General Medicine
+PT0104,54,Female,AB-,South African,84.9,1.6,33.2,161,100,Diabetes Type 2,General Medicine
+PT0105,35,Female,A+,Ethiopian,78.3,1.91,21.5,148,88,Hypertension,General Medicine
+PT0106,34,Female,O+,Kenyan,54.1,1.63,20.4,153,72,Diabetes Type 2,General Medicine
+PT0107,85,Female,AB+,Indian,72.6,1.62,27.7,127,78,Asthma,Cardiology
+PT0108,27,Female,O+,British,56.3,1.93,15.1,160,65,Chronic Kidney Disease,Cardiology
+PT0109,33,Female,AB+,American,70.5,1.8,21.8,149,100,Asthma,Cardiology
+PT0110,78,Male,AB-,South African,61.3,1.9,17.0,150,64,Chronic Kidney Disease,Pulmonology
+PT0111,32,Female,O-,Ghanaian,56.3,1.93,15.1,125,66,Diabetes Type 2,General Medicine
+PT0112,67,Male,O+,Kenyan,82.7,1.8,25.5,160,86,Hypertension,Nephrology
+PT0113,53,Female,O-,South African,51.5,1.67,18.5,138,83,Hypertension,Pulmonology
+PT0114,25,Female,O-,Ghanaian,67.9,1.59,26.9,112,73,None,Cardiology
+PT0115,60,Male,B-,Ghanaian,72.2,1.56,29.7,148,95,Diabetes Type 2,General Medicine
+PT0116,47,Male,A+,Ethiopian,76.4,1.57,31.0,166,69,Diabetes Type 2,General Medicine
+PT0117,40,Female,A+,British,54.9,1.89,15.4,116,75,None,Pulmonology
+PT0118,40,Male,A-,Ghanaian,73.3,1.56,30.1,134,90,Chronic Kidney Disease,Pulmonology
+PT0119,75,Male,AB+,Indian,85.2,1.93,22.9,117,61,Hypertension,Nephrology
+PT0120,72,Female,O-,Ghanaian,80.9,1.72,27.3,172,65,Asthma,General Medicine
+PT0121,26,Male,AB-,American,66.3,1.78,20.9,142,98,None,Pulmonology
+PT0122,82,Female,A-,South African,77.2,1.54,32.6,160,87,Chronic Kidney Disease,Endocrinology
+PT0123,61,Female,A-,British,87.2,1.68,30.9,158,87,Asthma,Pulmonology
+PT0124,37,Female,A-,Ghanaian,80.9,1.71,27.7,112,87,Hypertension,Pulmonology
+PT0125,25,Male,A-,American,89.3,1.75,29.2,126,82,Chronic Kidney Disease,Cardiology
+PT0126,57,Female,B+,Indian,65.8,1.76,21.2,124,74,Hypertension,Pulmonology
+PT0127,32,Female,O+,Nigerian,84.3,1.76,27.2,157,98,Asthma,Cardiology
+PT0128,52,Male,AB-,Nigerian,95.1,1.64,35.4,131,71,Diabetes Type 2,General Medicine
+PT0129,26,Female,A-,South African,56.4,1.78,17.8,106,84,Chronic Kidney Disease,Nephrology
+PT0130,38,Female,A-,Nigerian,66.7,1.82,20.1,156,69,Diabetes Type 2,General Medicine
+PT0131,28,Male,O-,American,73.6,1.8,22.7,136,77,Diabetes Type 2,General Medicine
+PT0132,62,Male,O-,Ethiopian,81.5,1.63,30.7,155,62,Diabetes Type 2,Nephrology
+PT0133,18,Male,B+,Ethiopian,70.2,1.93,18.8,152,78,Asthma,Cardiology
+PT0134,81,Male,B-,British,97.4,1.58,39.0,140,64,Chronic Kidney Disease,Cardiology
+PT0135,20,Female,O+,American,70.7,1.54,29.8,124,100,Chronic Kidney Disease,Pulmonology
+PT0136,69,Male,O-,British,61.0,1.65,22.4,164,65,Chronic Kidney Disease,Cardiology
+PT0137,73,Male,AB+,British,89.4,1.74,29.5,139,74,Asthma,Endocrinology
+PT0138,83,Male,AB-,British,91.7,1.74,30.3,128,69,Diabetes Type 2,Cardiology
+PT0139,50,Male,A-,Kenyan,69.9,1.77,22.3,158,100,Chronic Kidney Disease,Nephrology
+PT0140,59,Female,O-,Ghanaian,88.9,1.78,28.1,120,90,Chronic Kidney Disease,Pulmonology
+PT0141,25,Female,O-,Nigerian,65.8,1.53,28.1,134,63,Asthma,Pulmonology
+PT0142,29,Male,A+,Indian,90.8,1.73,30.3,134,96,Diabetes Type 2,Pulmonology
+PT0143,82,Female,AB-,Ghanaian,56.8,1.53,24.3,122,92,Diabetes Type 2,Cardiology
+PT0144,74,Male,B+,British,109.5,1.74,36.2,153,83,Asthma,Nephrology
+PT0145,61,Female,AB-,Ghanaian,80.6,1.52,34.9,152,81,Hypertension,General Medicine
+PT0146,54,Female,B+,British,61.3,1.88,17.3,168,65,None,Endocrinology
+PT0147,57,Female,B+,Ghanaian,93.5,1.81,28.5,136,79,None,Nephrology
+PT0148,34,Female,A-,American,80.2,1.87,22.9,153,92,Asthma,Cardiology
+PT0149,57,Female,O-,South African,58.1,1.6,22.7,171,74,Diabetes Type 2,Endocrinology
+PT0150,55,Male,A+,British,102.2,1.55,42.5,160,99,Diabetes Type 2,General Medicine
+PT0151,37,Female,B+,Indian,57.3,1.87,16.4,156,62,Chronic Kidney Disease,Pulmonology
+PT0152,74,Male,O-,South African,90.5,1.84,26.7,164,94,Diabetes Type 2,Pulmonology
+PT0153,42,Female,O-,Ethiopian,66.6,1.93,17.9,136,84,None,General Medicine
+PT0154,38,Female,AB+,Nigerian,86.8,1.86,25.1,115,90,Asthma,General Medicine
+PT0155,84,Male,B+,Ethiopian,102.6,1.63,38.6,164,88,None,Endocrinology
+PT0156,29,Female,AB-,Nigerian,92.6,1.6,36.2,133,86,Hypertension,Nephrology
+PT0157,48,Female,A+,British,67.4,1.54,28.4,123,66,Asthma,Endocrinology
+PT0158,22,Male,B+,Indian,74.3,1.87,21.2,148,88,None,Cardiology
+PT0159,20,Male,O+,Ghanaian,72.8,1.88,20.6,139,78,Diabetes Type 2,Pulmonology
+PT0160,24,Male,O-,Ghanaian,71.9,1.79,22.4,143,67,Chronic Kidney Disease,General Medicine
+PT0161,83,Male,O+,Nigerian,88.8,1.82,26.8,134,99,Asthma,Endocrinology
+PT0162,41,Female,A-,Nigerian,79.9,1.54,33.7,131,84,Chronic Kidney Disease,Cardiology
+PT0163,65,Female,A-,British,61.4,1.51,26.9,163,75,Hypertension,General Medicine
+PT0164,35,Female,B+,Indian,52.0,1.75,17.0,159,90,Diabetes Type 2,Endocrinology
+PT0165,76,Male,B-,Nigerian,61.8,1.59,24.4,165,80,Asthma,General Medicine
+PT0166,78,Female,AB+,British,61.4,1.84,18.1,127,63,Asthma,Pulmonology
+PT0167,65,Male,O+,British,81.8,1.68,29.0,141,71,Chronic Kidney Disease,Nephrology
+PT0168,84,Female,A-,American,62.0,1.54,26.1,143,98,Diabetes Type 2,General Medicine
+PT0169,59,Female,AB+,Indian,54.6,1.65,20.1,129,98,Chronic Kidney Disease,Endocrinology
+PT0170,62,Female,AB-,American,70.1,1.83,20.9,170,77,Hypertension,Cardiology
+PT0171,64,Female,A+,Kenyan,73.1,1.84,21.6,122,98,Chronic Kidney Disease,Cardiology
+PT0172,26,Male,O+,Nigerian,71.8,1.79,22.4,128,98,Diabetes Type 2,Nephrology
+PT0173,65,Female,AB-,American,70.0,1.53,29.9,121,80,Asthma,Endocrinology
+PT0174,21,Male,A-,Ethiopian,96.8,1.72,32.7,128,76,Chronic Kidney Disease,Endocrinology
+PT0175,80,Female,O-,Kenyan,59.0,1.56,24.2,120,88,Hypertension,Pulmonology
+PT0176,26,Female,B+,Kenyan,74.7,1.63,28.1,124,83,None,Endocrinology
+PT0177,43,Male,A+,British,99.6,1.61,38.4,139,95,None,Pulmonology
+PT0178,34,Female,O+,Indian,77.5,1.54,32.7,125,93,Chronic Kidney Disease,Nephrology
+PT0179,34,Male,O-,British,108.6,1.79,33.9,134,68,None,General Medicine
+PT0180,34,Male,A-,Kenyan,81.6,1.91,22.4,109,79,Diabetes Type 2,Endocrinology
+PT0181,46,Female,AB+,Ghanaian,65.6,1.92,17.8,166,76,Diabetes Type 2,General Medicine
+PT0182,34,Female,B+,Kenyan,78.1,1.78,24.6,111,70,None,General Medicine
+PT0183,23,Female,AB+,South African,87.1,1.51,38.2,106,96,Chronic Kidney Disease,General Medicine
+PT0184,81,Male,AB+,Indian,104.4,1.75,34.1,157,75,Chronic Kidney Disease,Pulmonology
+PT0185,27,Female,O-,Indian,81.0,1.57,32.9,131,73,Asthma,General Medicine
+PT0186,58,Male,AB-,American,103.1,1.64,38.3,166,68,Asthma,General Medicine
+PT0187,58,Male,B-,Kenyan,72.1,1.56,29.6,139,66,Hypertension,Pulmonology
+PT0188,71,Female,AB-,British,61.2,1.89,17.1,124,72,Diabetes Type 2,Nephrology
+PT0189,81,Female,O+,Indian,89.6,1.72,30.3,121,75,Diabetes Type 2,General Medicine
+PT0190,24,Female,O-,Ethiopian,52.3,1.72,17.7,160,94,Hypertension,Cardiology
+PT0191,35,Female,O+,British,89.7,1.83,26.8,155,62,Chronic Kidney Disease,Cardiology
+PT0192,64,Male,O-,Ethiopian,87.7,1.53,37.5,144,99,None,Cardiology
+PT0193,30,Male,AB-,Kenyan,79.7,1.86,23.0,127,72,None,General Medicine
+PT0194,82,Female,AB-,Indian,51.8,1.52,22.4,161,93,Chronic Kidney Disease,Endocrinology
+PT0195,59,Male,AB+,British,106.6,1.64,39.6,136,92,None,General Medicine
+PT0196,56,Female,A-,American,71.4,1.51,31.3,132,97,Asthma,Cardiology
+PT0197,51,Female,B-,Nigerian,93.5,1.85,27.3,159,97,Chronic Kidney Disease,Endocrinology
+PT0198,36,Female,A-,South African,87.0,1.61,33.6,143,61,Chronic Kidney Disease,Pulmonology
+PT0199,37,Female,O-,Nigerian,68.6,1.59,27.1,139,68,None,Endocrinology
+PT0200,79,Female,O-,British,73.6,1.64,27.4,126,94,Asthma,Pulmonology
